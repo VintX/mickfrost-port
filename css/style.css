@@ -190,7 +190,7 @@ a.tab-profile.active i{
 
 }
 
-.tabs li > a >i{
+.tabs li > a > i{
     font-size: 45px;
     display: block;
     margin-bottom: 5px;
