@@ -110,7 +110,7 @@ span.social-text{
     top: 10px;
     border-radius: 70px;
 }
- i.fa.fa-share{
+i.fa.fa-share{
      color: white !important;
  }
 
@@ -149,6 +149,12 @@ ul.social-icons{
     position: absolute;
     margin-top: -14px;
     z-index: 100;
+    
+}
+
+.tabs li{
+    float: left;
+    height: 116px;
 }
 
 .tabs li > a{
@@ -210,3 +216,4 @@ a.tab-profile.active i{
     font-size: 20px;
     margin-left: 7px;
 }
+
