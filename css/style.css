@@ -9,6 +9,10 @@ body{
    margin-top: 30px;
 }
 
+#content{
+    background-color: white;
+}
+
 #profile{
     background: #cf455c;
     background-image: url(..//img/header-shadow.png);
@@ -173,8 +177,11 @@ ul.social-icons{
     margin-right: 35px;
 }
 
-a.tab-profile.active{
+.tabs li.active{
     background: url(..//img/tab-hover.png) no-repeat;
+}
+
+.tabs li.active a{
     color: #cf455c;
 }
 
